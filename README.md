@@ -11,7 +11,7 @@ PostgreSQL as the database<br/>
 Setup Instructions<br/>
 Backend Setup (Spring Boot)<br/>
 Clone the repository:<br/>
-git clone https://github.com/tkantar/customer_management.git<br/>
+git clone https://github.com/tkantar/krankenkasse.git<br/>
 
 Navigate to the backend directory:<br/>
 cd customer_management/backend<br/>
@@ -29,7 +29,7 @@ Run the backend: Use Maven to start the backend.<br/>
 
 Frontend Setup (React)<br/>
 
-Navigate to the frontend directory:<br/>
+Navigate to the frontend directory<br/>
 
 cd ../frontend<br/>
 Install dependencies:<br/>
